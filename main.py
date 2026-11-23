@@ -1,3 +1,3 @@
-print("hello, world")
-print("python")
-print("third")
+print("HELLO")
+print("PYTHON")
+print("THIRD")
